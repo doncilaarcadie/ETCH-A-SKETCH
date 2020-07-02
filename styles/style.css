@@ -3,3 +3,22 @@ html {
     /*font-family: 'Open Sans', sans-serif;*/
     font-family: 'Lacquer', serif ;
   }
+  
+    
+  body{
+    text-align: center;
+    height: 100vh;      
+    background-color: rgb(178, 234, 236);      
+  }
+  .resetBtn{
+    text-align: center
+  }
+  .divContainer{
+    margin-top: 2vh;
+    display: grid;           
+    justify-content: center;
+  }
+  .tile{      
+    border: 1px solid rgb(44, 43, 43);
+    border-radius: 10%;        
+  }
